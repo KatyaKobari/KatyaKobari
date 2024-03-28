@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katya Kobari</h1>
-<h3 align="center">A passionate Computer Engineering Student from Palestine</h3>
+<h3 align="center">A passionate Computer Engineering Student at Birzeit University </h3>
 
 - 📫 How to reach me **katyakobari@gmail.com**
 
