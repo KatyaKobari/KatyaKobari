@@ -2,8 +2,7 @@
 <h3 align="center">Computer Engineering Student | Birzeit University</h3>
 
 - 📫 Contact me at: **katyakobari@gmail.com**
-
-- ⚡ Fun fact: I'm a huge fan of hamsters 🐹
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
