@@ -22,4 +22,3 @@
 
 ---
 
-<p align="center">🤖 I'm passionate about technology and enjoy exploring new innovations. Currently delving into the world of machine learning and artificial intelligence! Let's connect and exchange ideas!</p>
